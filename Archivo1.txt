@@ -4,5 +4,4 @@ Esto está en rama master
 
 Esto en padre
 
-Y esto en hijo
 Y esto en hijo-hermano
