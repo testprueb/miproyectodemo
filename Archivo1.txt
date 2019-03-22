@@ -1,8 +1,3 @@
-Hola Mundo!!
-como estas?
-bien y tu?
+HOLA!
 
-!ESTO SOLO ESTÁ
-EN LA RAMA NUEVODESA!
-
-Y ESTO TAMBIEN (;
+Esto está en rama master
