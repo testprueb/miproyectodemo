@@ -2,5 +2,4 @@ HOLA!
 
 Esto está en rama master
 
-Esto en padre
-Esto en padre hermano
+Esto en padre-hermano
